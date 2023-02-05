@@ -2,7 +2,7 @@
 title: We want to hear from you
 description: this is meta-description
 layout: contact
-message: Let's, Talk About You
+message: We want to hear from you
 button_text: Send Now
 instruction_a: Send Us A
 instruction_b: " message"
