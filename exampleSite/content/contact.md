@@ -1,5 +1,5 @@
 ---
-title: We want to hear from you
+title: Contact Us
 description: this is meta-description
 layout: contact
 message: We want to hear from you
