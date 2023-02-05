@@ -1,4 +1,4 @@
-baseURL = "https://demo.statichunt.com/geeky-hugo/"
+baseURL = "https://polite-cascaron-941e96.netlify.app"
 disableLanguages = ["fr"]
 disqusShortname = "themefisher-template"
 googleAnalytics = ""
