@@ -11,7 +11,7 @@ education:
   title: "Formal Education"
   education_list:
   - name: "Southeast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
+    content: "1986 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
   - name: "Northeast University"
     content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
   - name: "Easteast University"
